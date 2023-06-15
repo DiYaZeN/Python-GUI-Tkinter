@@ -5,7 +5,7 @@ window = tkinter.Tk()
 
 
 
-prin
+
 
 
 
